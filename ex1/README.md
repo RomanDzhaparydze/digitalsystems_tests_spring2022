@@ -6,6 +6,6 @@ How to run the tests:
 * Inside ModelSim run:
     * cd < your folder path >
     * vlib work
-    * for each tcl file in the folder run:
-          * source < tcl file name >
-          * look at the prints on the ModelSim transcript
+* For each tcl file in the folder run:
+    * source < tcl file name >
+    * look at the prints on the ModelSim transcript
