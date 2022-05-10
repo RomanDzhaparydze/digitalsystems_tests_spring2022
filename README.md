@@ -1,1 +1,1 @@
-# digitalsystems_tests_spring2022
+# Test for Digital Systems (044252), Spring 2022
