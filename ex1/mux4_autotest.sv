@@ -36,7 +36,7 @@ module mux4_test;
 		test_results = 24'b010101111000110010101100;
 		
 		$display("********************");
-		$display("(****RUN TESTS******");
+		$display("*****RUN TESTS******");
 		$display("********************");
 		
 		for (i = 0; i < 24; i++) begin

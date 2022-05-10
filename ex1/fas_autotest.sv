@@ -34,7 +34,7 @@ module fas_test;
 		test_s_results = 16'b0110100101101001;
 		
 		$display("********************");
-		$display("(****RUN TESTS******");
+		$display("*****RUN TESTS******");
 		$display("********************");
 		
 		for (i = 0; i < 16; i++) begin
