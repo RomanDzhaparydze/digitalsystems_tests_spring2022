@@ -11,4 +11,4 @@ How to run the tests:
     * look at the prints on the ModelSim transcript
 
 
-# The tests from https://github.com/sasonii/digitalsystems_tests_spring2022_ex2.
+The tests from https://github.com/sasonii/digitalsystems_tests_spring2022_ex2.
